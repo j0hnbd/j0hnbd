@@ -1,6 +1,4 @@
-## Hola, este es mi perfil de GitHub
-
-:computer: **Ingeniero de Sistemas**  
+## Hola, bienvenido a mi perfil de GitHub
 
 ## Acerca de mi
 
@@ -40,3 +38,5 @@ manejo de las relaciones interpersonales.
 
 •	CI / CD (Jenkis)
 
+## Profesión
+:computer: **Ingeniero de Sistemas**  
