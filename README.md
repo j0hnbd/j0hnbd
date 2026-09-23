@@ -86,5 +86,3 @@ managing interpersonal relationships.
 
 ## Profession
 :computing: **Systems Engineer**
-
-Translated with DeepL.com (free version)
