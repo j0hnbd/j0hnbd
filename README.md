@@ -85,4 +85,4 @@ managing interpersonal relationships.
 •    CI/CD (Jenkins)
 
 ## Profession
-:computing: **Systems Engineer**
+:computer: **Systems Engineer**
